@@ -5,7 +5,6 @@ Descrição dos estudos realizados nesta semana.
 \# 📚  Semana 02 – Exercícios de Python
 
 
-
 Bem-vindo(a) ao repositório da \*\*Semana 02\*\*!  
 
 
@@ -62,14 +61,10 @@ Os exercícios estão organizados por arquivos numerados para facilitar o estudo
 
 ---
 
-
-
 \## 🚀 Como executar
 
 
-
 Para rodar qualquer exercício, utilize o comando no terminal:
-
 
 
 ```bash
