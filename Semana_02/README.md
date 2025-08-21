@@ -2,7 +2,7 @@
 
 Descrição dos estudos realizados nesta semana.
 
-\# 📚 Semana 02 – Exercícios de Python
+\# 📚  Semana 02 – Exercícios de Python
 
 
 
